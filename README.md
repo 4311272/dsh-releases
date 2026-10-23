@@ -31,7 +31,7 @@ certutil -hashfile ASA-DSH-3.3.1-setup.exe SHA256
 对比下面这串，一致就是完整的、没被篡改：
 749c51ebd5a715733caaa8dcdb690d0069c1d86a33ae3912de9ccbcf148f6eeb
 便携版 ASA-DSH-3.3.1-portable.zip 的 SHA256：
-7dcbeb831f770305ef2a88b088db47ae1ccbdd0276a7ad52132715d25b19cfb1
+ce0b50260dc532879b96c592f65d5f5af4b05bf96a9cb6bb7b08a02339a74223
 💬 官方交流群
 QQ 群：702195628
 安装、授权、使用中遇到任何问题，进群问，群里有人管。
