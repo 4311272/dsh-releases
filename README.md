@@ -9,29 +9,29 @@ https://github.com/4311272/dsh-releases/releases
 第 3 步：进到版本详情页后，往下滑到底部，找到 Assets 区块
 （老版页面可能在最下方折叠着，点一下 Assets 展开）。
 第 4 步：点文件名 ASA-DSH-3.3.1-setup.exe 开始下载
-（浏览器会跳到下载页，等几秒自动开始；文件约 268 MB）。
+（浏览器会跳到下载页，等几秒自动开始；文件约 289 MB）。
 第 5 步：下载完成后双击 exe 运行，按提示安装即可。
 一劳永逸的直链（可复制到浏览器 / 网盘离线下载 / 下载工具）
 https://github.com/4311272/dsh-releases/releases/download/v3.3.1/ASA-DSH-3.3.1-setup.exe
 不想安装？用绿色便携版
-ASA-DSH-3.3.1-portable.zip（约 418 MB）解压即用：不安装、不写注册表，适合 U 盘随身或不想安装的用户。
+ASA-DSH-3.3.1-portable.zip（约 439 MB）解压即用：不安装、不写注册表，适合 U 盘随身或不想安装的用户。
 直链：
 https://github.com/4311272/dsh-releases/releases/download/v3.3.1/ASA-DSH-3.3.1-portable.zip
 📦 Releases 里的文件说明
 文件
 说明
 ASA-DSH-3.3.1-setup.exe
-安装包本体（约 268 MB），双击安装到 %LOCALAPPDATA%\Programs\JJDNDS
+安装包本体（约 289 MB），双击安装到 %LOCALAPPDATA%\Programs\JJDNDS
 ASA-DSH-3.3.1-portable.zip
-绿色便携版（约 418 MB），解压即用
+绿色便携版（约 439 MB），解压即用
 软件启动后会自动检查本仓库的最新 Release 并提示更新，无需手动下载（除非你要全新安装或离线使用）。
 ✅ 校验下载是否完整（可选）
 Windows 命令行里执行：
 certutil -hashfile ASA-DSH-3.3.1-setup.exe SHA256
 对比下面这串，一致就是完整的、没被篡改：
-749c51ebd5a715733caaa8dcdb690d0069c1d86a33ae3912de9ccbcf148f6eeb
+7b44b280c8bae1a491f2eab2a078b6ce99e4eabddafc6befd07257c7607bfc38
 便携版 ASA-DSH-3.3.1-portable.zip 的 SHA256：
-ce0b50260dc532879b96c592f65d5f5af4b05bf96a9cb6bb7b08a02339a74223
+a6b2dd07b497d34edcd3b1f741f6ca728ae7a28b76b09ebb1db2a9225bb3060c
 💬 官方交流群
 QQ 群：702195628
 安装、授权、使用中遇到任何问题，进群问，群里有人管。
