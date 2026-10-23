@@ -1,6 +1,6 @@
 {
-  "version": "3.3.0",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.3.0/ASA-DSH-3.3.0-setup.exe",
-  "sha256": "ecd0ba702e89b228bbe2f3a40fef87d2b32a538cd2c873c92271ed8d0e02d0fb",
-  "notes": "解决电脑大师 3.3.0 安装包"
+  "version": "3.3.1",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.3.1/ASA-DSH-3.3.1-setup.exe",
+  "sha256": "d850b37e497fdcddab27395a945bb3688b6c81fe1635d130c48b0646e86437c1",
+  "notes": "解决电脑大师 3.3.1 安装包"
 }
