@@ -4,7 +4,7 @@
 📥 怎么下载安装包（跟着点就行）
 
 第 1 步：在本仓库主页看页面右侧栏，在 “About” 下面找到 Releases 区块
-（会显示 Releases 1，最新版本是 解决电脑大师 3.3.1，后面带绿色 Latest 标签）。
+（会显示 Releases 2，最新版本是 解决电脑大师 3.3.1，后面带绿色 Latest 标签）。
 找不到右侧栏也没关系，直接点这个链接进 Releases 列表：
 https://github.com/4311272/dsh-releases/releases
 
