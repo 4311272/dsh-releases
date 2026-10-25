@@ -1,37 +1,54 @@
-解决电脑大师 · 安装包发布库
-本仓库发布「解决电脑大师」Windows 安装包，适用于 Windows 10 及以上系统。
-📥 怎么下载安装包（跟着点就行）
-第 1 步：在本仓库主页看页面右侧栏，在 "About" 下面找到 Releases 区块
-（会显示 Releases 2，最新版本是 解决电脑大师 3.3.4，后面带绿色 Latest 标签）。
-找不到右侧栏也没关系，直接点这个链接进 Releases 列表：
-https://github.com/4311272/dsh-releases/releases
-第 2 步：在 Releases 列表里点最新那条 「解决电脑大师 3.3.4」。
-第 3 步：进到版本详情页后，往下滑到底部，找到 Assets 区块
-（老版页面可能在最下方折叠着，点一下 Assets 展开）。
-第 4 步：点文件名 ASA-DSH-3.3.4-setup.exe 开始下载
-（浏览器会跳到下载页，等几秒自动开始；文件约 290 MB）。
-第 5 步：下载完成后双击 exe 运行，按提示安装即可。
-一劳永逸的直链（可复制到浏览器 / 网盘离线下载 / 下载工具）
-https://github.com/4311272/dsh-releases/releases/download/v3.3.4/ASA-DSH-3.3.4-setup.exe
-不想安装？用绿色便携版
-ASA-DSH-3.3.4-portable.zip（约 440 MB）解压即用：不安装、不写注册表，适合 U 盘随身或不想安装的用户。
-直链：
-https://github.com/4311272/dsh-releases/releases/download/v3.3.4/ASA-DSH-3.3.4-portable.zip
-📦 Releases 里的文件说明
-文件
-说明
-ASA-DSH-3.3.4-setup.exe
-安装包本体（约 290 MB），双击安装到 %LOCALAPPDATA%\Programs\JJDNDS
-ASA-DSH-3.3.4-portable.zip
-绿色便携版（约 440 MB），解压即用
-软件启动后会自动检查本仓库的最新 Release 并提示更新，无需手动下载（除非你要全新安装或离线使用）。
-✅ 校验下载是否完整（可选）
-Windows 命令行里执行：
-certutil -hashfile ASA-DSH-3.3.4-setup.exe SHA256
-对比下面这串，一致就是完整的、没被篡改：
-2dbfbd16b3e8d821d06dd538718adc9e8598c4df5506263997326b1915c1764a
-便携版 ASA-DSH-3.3.4-portable.zip 的 SHA256：
-c3f7bd3c9607018d6020f7a581e729bcb20454b3393c5f8ab7266475a8e3e6a3
-💬 官方交流群
-QQ 群：702195628
-安装、授权、使用中遇到任何问题，进群问，群里有人管。
+# 解决电脑大师 - 官方下载
+
+> Windows 10 及以上系统可用。AI 驱动的电脑问题一站式解决工具，支持智能诊断、软件修复与系统优化。启动自动检查更新，无需手动下载。
+
+## 安装包下载
+
+[点击这里下载 安装版（约 289 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.3.5/ASA-DSH-3.3.5-setup.exe)
+
+下载慢或打不开？走国内高速通道：
+
+[点击这里下载 高速通道](https://dsh-update-bridge.jjdiannaodashi.top/ghdl/4311272/dsh-releases/releases/download/v3.3.5/ASA-DSH-3.3.5-setup.exe)
+
+### 安装步骤
+
+1. 点击上方下载按钮，等待下载完成。
+2. 双击 `ASA-DSH-3.3.5-setup.exe` 运行。
+3. 按安装向导提示点击「下一步」，选择安装目录（默认即可）。
+4. 安装完成后桌面会出现快捷方式，双击启动即可使用。
+
+## 便携版下载
+
+[点击这里下载 便携版（约 438 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.3.5/ASA-DSH-3.3.5-portable.zip)
+
+便携版解压即用，不安装、不写注册表，适合 U 盘随身携带或不想安装的用户。
+
+### 使用步骤
+
+1. 下载 `ASA-DSH-3.3.5-portable.zip`。
+2. 右键解压到任意文件夹。
+3. 双击文件夹内的 `ASA DSH 3.exe` 启动。
+
+## 校验下载完整性（可选）
+
+下载完成后，可在命令行执行以下命令核对文件是否完整、未被篡改：
+
+```text
+certutil -hashfile ASA-DSH-3.3.5-setup.exe SHA256
+```
+
+对比安装版 SHA256：
+
+```text
+002cb603259e52842f8794364054835657e4709fbf9ec362128e27b8646f7c48
+```
+
+便携版 SHA256：
+
+```text
+5e6f03bf721293456faecc7d4ec52c5db8c59ee572d3ecc5578ce91b3353ccd6
+```
+
+---
+
+**官方交流群：702195628**（安装、授权、使用中遇到任何问题，进群问，群里有人管。）
