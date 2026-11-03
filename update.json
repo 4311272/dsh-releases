@@ -1,8 +1,8 @@
 {
-  "version": "3.4.12",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.12/ASA-DSH-3.4.12-setup.exe",
-  "sha256": "3ea12a42757043ec9226890d89c0b2cc7317621472271ae8b346268d953408d7",
-  "notes": "解决电脑大师 3.4.12 安装包",
+  "version": "3.4.13",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.13/ASA-DSH-3.4.13-setup.exe",
+  "sha256": "981bb7f462e94afcf1532bc785f3b99cdd3a014b68a92639abd99585013b9fcc",
+  "notes": "解决电脑大师 3.4.13 安装包（修复启动闪退）",
   "mirrorUrl": "https://1860618685.share.123pan.cn/123pan/Z5y5vd-KUVBd",
   "mirrorNote": "123云盘高速通道：点进链接后选「浏览器下载」方式即可（免登录、不限速）"
 }
