@@ -3,7 +3,5 @@
   "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.14/ASA-DSH-3.4.14-setup.exe",
   "sha256": "e8b9bf36c8964f2b9c85cff489a39fbf1d1179c6dd511f698a211848990f5090",
   "notes": "解决电脑大师 3.4.14（修复免费次数扣了又回满）",
-  "mirrorUrl": "https://1860618685.share.123pan.cn/123pan/Z5y5vd-KUVBd",
-  "mirrorNote": "123云盘高速通道：点进链接后选「浏览器下载」方式即可（免登录、不限速）",
   "forceUpdateAfter": 1793750400000
 }
