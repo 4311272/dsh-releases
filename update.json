@@ -1,7 +1,8 @@
 {
-  "version": "3.4.15",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.15/ASA-DSH-3.4.15-setup.exe",
-  "sha256": "14b7b2bbefed4f5b207526141e4ec3e89e41efc8b7a01df719be8e68c53ec2d2",
-  "notes": "解决电脑大师 3.4.15（安全加固）",
-  "forceUpdateAfter": 1793750400000
+  "version": "3.4.16",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.16/ASA-DSH-3.4.16-setup.exe",
+  "sha256": "e344bb42555d8e4a989dc66e5ae628934b01cde5898cf9798c9432f94175c8ea",
+  "notes": "解决电脑大师 3.4.16（重大安全加固）",
+  "forceUpdateAfter": 1793750400000,
+  "autoCleanOld": true
 }
