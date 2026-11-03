@@ -4,31 +4,31 @@
 
 ## 安装包下载
 
-[点击这里下载 安装版（约 446 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.4.12/ASA-DSH-3.4.12-setup.exe)
+[点击这里下载 安装版（约 446 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.4.13/ASA-DSH-3.4.13-setup.exe)
 
 下载慢或打不开？走国内高速通道（推荐）：
 
 [点击这里下载 高速通道（123云盘 · 不限速）](https://1860618685.share.123pan.cn/123pan/Z5y5vd-KUVBd)
 
 > 123 云盘高速通道：**点进链接后选「浏览器下载」方式**即可（免登录、不限速）。
-> 备用中转：<https://dsh-update-bridge.jjdiannaodashi.top/ghdl/4311272/dsh-releases/releases/download/v3.4.12/ASA-DSH-3.4.12-setup.exe>
+> 备用中转：<https://dsh-update-bridge.jjdiannaodashi.top/ghdl/4311272/dsh-releases/releases/download/v3.4.13/ASA-DSH-3.4.13-setup.exe>
 
 ### 安装步骤
 
 1. 点击上方下载按钮，等待下载完成。
-2. 双击 `ASA-DSH-3.4.12-setup.exe` 运行。
+2. 双击 `ASA-DSH-3.4.13-setup.exe` 运行。
 3. 按安装向导提示点击「下一步」，选择安装目录（默认即可）。
 4. 安装完成后桌面会出现快捷方式，双击启动即可使用。
 
 ## 便携版下载
 
-[点击这里下载 便携版（约 464 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.4.12/ASA-DSH-3.4.12-portable.zip)
+[点击这里下载 便携版（约 464 MB）](https://github.com/4311272/dsh-releases/releases/download/v3.4.13/ASA-DSH-3.4.13-portable.zip)
 
 便携版解压即用，不安装、不写注册表，适合 U 盘随身携带或不想安装的用户。
 
 ### 使用步骤
 
-1. 下载 `ASA-DSH-3.4.12-portable.zip`。
+1. 下载 `ASA-DSH-3.4.13-portable.zip`。
 2. 右键解压到任意文件夹。
 3. 双击文件夹内的 `ASA DSH 3.exe` 启动。
 
@@ -37,17 +37,17 @@
 下载完成后，可在命令行执行以下命令核对文件是否完整、未被篡改：
 
 ```text
-certutil -hashfile ASA-DSH-3.4.12-setup.exe SHA256
+certutil -hashfile ASA-DSH-3.4.13-setup.exe SHA256
 ```
 
 对比安装版 SHA256：
 
 ```text
-3ea12a42757043ec9226890d89c0b2cc7317621472271ae8b346268d953408d7
+981bb7f462e94afcf1532bc785f3b99cdd3a014b68a92639abd99585013b9fcc
 ```
 
 便携版 SHA256：
 
 ```text
-3577787330cbb06951568b871c14fa998d8ba0b7dff15d91264755945daddb0d
+ec6a7d396c168613af86eaac3f6a4397c4a55c33d43a91ab99c1c3532db22a55
 ```
