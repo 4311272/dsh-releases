@@ -8,7 +8,6 @@
 
 下载慢或打不开？走国内高速通道（推荐）：
 
-[点击这里下载 高速通道（123云盘 · 不限速）](https://1860618685.share.123pan.cn/123pan/Z5y5vd-KUVBd)
 
 > 123 云盘高速通道：**点进链接后选「浏览器下载」方式**即可（免登录、不限速）。
 > 备用中转：<https://dsh-update-bridge.jjdiannaodashi.top/ghdl/4311272/dsh-releases/releases/download/v3.4.14/ASA-DSH-3.4.14-setup.exe>
