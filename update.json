@@ -1,1 +1,1 @@
-{"version":"3.4.25","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.25/ASA-DSH-3.4.25-setup.exe","sha256":"b6d579b0b99d585de8302002c59b3c70d06cdc53b8b5fc8686a1cee6d03dfd50","notes":"解决电脑大师 3.4.25","forceUpdateAfter":1793750400000,"autoCleanOld":true}
+{"version":"3.4.26","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.26/ASA-DSH-3.4.26-setup.exe","sha256":"318490683f134dc6754355f018a03373c8a977d71d2e45f921e14ee6f4a434a0","notes":"解决电脑大师 3.4.26（修复版本误判）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
