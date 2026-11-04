@@ -1,1 +1,1 @@
-{"version":"3.4.27","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.27/ASA-DSH-3.4.27-setup.exe","sha256":"7ce9d4a4eaab9844a9bde6daea37a49679fd4fec77b7cd67540ba63d9583b193","notes":"解决电脑大师 3.4.27（修复误判）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
+{"version":"3.4.28","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.28/ASA-DSH-3.4.28-setup.exe","sha256":"8ab6dcc4f2eb43c3f4baff74123cfbc7ddb15a03e499ddc061081fc674a8aa61","notes":"解决电脑大师 3.4.28（修复能力加载）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
