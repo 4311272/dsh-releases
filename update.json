@@ -1,1 +1,1 @@
-{"version":"3.4.28","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.28/ASA-DSH-3.4.28-setup.exe","sha256":"8ab6dcc4f2eb43c3f4baff74123cfbc7ddb15a03e499ddc061081fc674a8aa61","notes":"解决电脑大师 3.4.28（修复能力加载）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
+{"version":"3.4.29","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.29/ASA-DSH-3.4.29-setup.exe","sha256":"6b73a86a36f18137a9268865050c0ba5993909377b3afadae35d9b8b63cf59c9","notes":"解决电脑大师 3.4.29（多电脑绑定台数管控 + 机器码绑定修复）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
