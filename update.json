@@ -1,6 +1,6 @@
 {
-  "version": "3.4.40",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.40/ASA-DSH-3.4.40-setup.exe",
-  "sha256": "1620118e8d312088535783d37a6a8461b4283eccbb17dab6f9f96028d6b9b9e3",
-  "notes": "解决电脑大师 3.4.40 安装包"
+  "version": "3.4.41",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.41/ASA-DSH-3.4.41-setup.exe",
+  "sha256": "7a719328b004bb072148f575eec8cab6806129f58f37d801192d5319d0e2aa18",
+  "notes": "解决电脑大师 3.4.41 安装包"
 }
