@@ -1,1 +1,6 @@
-{"version":"3.4.29","url":"https://github.com/4311272/dsh-releases/releases/download/v3.4.29/ASA-DSH-3.4.29-setup.exe","sha256":"6b73a86a36f18137a9268865050c0ba5993909377b3afadae35d9b8b63cf59c9","notes":"解决电脑大师 3.4.29（多电脑绑定台数管控 + 机器码绑定修复）","forceUpdateAfter":1793750400000,"autoCleanOld":true}
+{
+  "version": "3.4.40",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.40/ASA-DSH-3.4.40-setup.exe",
+  "sha256": "1620118e8d312088535783d37a6a8461b4283eccbb17dab6f9f96028d6b9b9e3",
+  "notes": "解决电脑大师 3.4.40 安装包"
+}
