@@ -1,6 +1,6 @@
 {
-  "version": "3.4.42",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.42/ASA-DSH-3.4.42-setup.exe",
-  "sha256": "35ac681040b2024a8f85824c88c45f28927311d6481ac63ca6914285915b80a5",
-  "notes": "解决电脑大师 3.4.42 安装包（字母别名邮箱登录 + 提示词包补拉 + cordis 重复键自愈）"
+  "version": "3.4.43",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.43/ASA-DSH-3.4.43-setup.exe",
+  "sha256": "02f18f7f993571f315fe70df4140ebb89702945f7681f433e26288f244cca663",
+  "notes": "解决电脑大师 3.4.43 安装包（后台可配群号与机器人名字 + 技术库单入口自动同步 + 登录态续期自愈）"
 }
