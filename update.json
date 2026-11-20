@@ -1,6 +1,6 @@
 {
-  "version": "3.4.43",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.43/ASA-DSH-3.4.43-setup.exe",
-  "sha256": "02f18f7f993571f315fe70df4140ebb89702945f7681f433e26288f244cca663",
-  "notes": "解决电脑大师 3.4.43 安装包（后台可配群号与机器人名字 + 技术库单入口自动同步 + 登录态续期自愈）"
+  "version": "3.4.44",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.44/ASA-DSH-3.4.44-setup.exe",
+  "sha256": "9bec7e026f1fb05d30c6e298ebd87941dc63a0a1882640f1a3f03c2f678b3655",
+  "notes": "解决电脑大师 3.4.44 安装包（修复技术库网盘下载越权 + 模型已配置仍提示 + 开通提示后台可配）"
 }
