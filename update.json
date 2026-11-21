@@ -1,6 +1,6 @@
 {
   "version": "3.4.47",
   "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.47/ASA-DSH-3.4.47-setup.exe",
-  "sha256": "113ce62267b719f43234c5a240e89d895ace9958633125fc6d6208b794030caa",
-  "notes": "解决电脑大师 3.4.47（修复安装满屏「跳过异常条目」警告／安装不完整）"
+  "sha256": "0910ebb345d7fffdd1b6a78b3a2d16a20934ac52fcec1a0136e739f12b34250c",
+  "notes": "解决电脑大师 3.4.47（修复受限沙箱下无写权限导致安装残缺）"
 }
