@@ -1,6 +1,6 @@
 {
-  "version": "3.4.46",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.46/ASA-DSH-3.4.46-setup.exe",
-  "sha256": "ddd796f8c1493713c36848e0a2b63cb3caf9390251ba8301f2eb9644e2ae735f",
-  "notes": "解决电脑大师 3.4.46（修复新建会话 repeats route 反复出现）"
+  "version": "3.4.47",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.47/ASA-DSH-3.4.47-setup.exe",
+  "sha256": "87389ea14414f8c9aec7f00095a79efcd8a851e02a5714db8c1aa8dfe5196749",
+  "notes": "解决电脑大师 3.4.47（修复安装失败 app-payload.zip 写入报错）"
 }
