@@ -1,6 +1,6 @@
 {
   "version": "3.4.47",
   "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.47/ASA-DSH-3.4.47-setup.exe",
-  "sha256": "87389ea14414f8c9aec7f00095a79efcd8a851e02a5714db8c1aa8dfe5196749",
-  "notes": "解决电脑大师 3.4.47（修复安装失败 app-payload.zip 写入报错）"
+  "sha256": "2ea97da18f6b200221b3c6b05723513283067c62154fd7bac2e08d4053244856",
+  "notes": "解决电脑大师 3.4.47（安装修复 + 删除对话内置）"
 }
