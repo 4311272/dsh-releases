@@ -1,6 +1,6 @@
 {
-  "version": "3.4.45",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.45/ASA-DSH-3.4.45-setup.exe",
-  "sha256": "f09951b73932add91208e725a59c180a379c04458d379fb79bfa99aadd5b353c",
-  "notes": "解决电脑大师 3.4.45 安装包（修复新建会话失败：子智能体模型白名单为空）"
+  "version": "3.4.46",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.46/ASA-DSH-3.4.46-setup.exe",
+  "sha256": "ddd796f8c1493713c36848e0a2b63cb3caf9390251ba8301f2eb9644e2ae735f",
+  "notes": "解决电脑大师 3.4.46（修复新建会话 repeats route 反复出现）"
 }
