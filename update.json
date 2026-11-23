@@ -1,6 +1,6 @@
 {
-  "version": "3.4.47",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.47/ASA-DSH-3.4.47-setup.exe",
-  "sha256": "0910ebb345d7fffdd1b6a78b3a2d16a20934ac52fcec1a0136e739f12b34250c",
-  "notes": "解决电脑大师 3.4.47（修复受限沙箱下无写权限导致安装残缺）"
+  "version": "3.4.56",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.56/ASA-DSH-3.4.56-setup.exe",
+  "sha256": "00a23eba5720f5806a0d7001105f93224401bbea31bf20936d4d0ad762b47477",
+  "notes": "解决电脑大师 3.4.56（凭据重复键自愈 + 深色模式修复 + 崩溃日志与插件崩溃提示 + Win10/Win11 识别）"
 }
