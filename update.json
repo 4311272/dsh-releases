@@ -1,6 +1,7 @@
 {
-  "version": "3.4.56",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.56/ASA-DSH-3.4.56-setup.exe",
-  "sha256": "00a23eba5720f5806a0d7001105f93224401bbea31bf20936d4d0ad762b47477",
-  "notes": "解决电脑大师 3.4.56（凭据重复键自愈 + 深色模式修复 + 崩溃日志与插件崩溃提示 + Win10/Win11 识别）"
+  "version": "3.4.69",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.69/ASA-DSH-3.4.69-setup.exe",
+  "sha256": "b9eaf92c5c62465eca3d1aa016f5d95ee496bf5e3d73b862a93beeca1562e9c9",
+  "pubDate": "2026-11-27",
+  "note": "修「偶发本轮运行失败（DeepSeek Messages transport failed）」：中转机抖动时客户端自动直连源站；同时修装完打不开、覆盖安装不清对话记录、技术库未授权拦截。覆盖安装即可。"
 }
