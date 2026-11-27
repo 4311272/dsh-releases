@@ -1,7 +1,7 @@
 {
-  "version": "3.4.69",
-  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.69/ASA-DSH-3.4.69-setup.exe",
-  "sha256": "b9eaf92c5c62465eca3d1aa016f5d95ee496bf5e3d73b862a93beeca1562e9c9",
-  "pubDate": "2026-11-27",
-  "note": "修「偶发本轮运行失败（DeepSeek Messages transport failed）」：中转机抖动时客户端自动直连源站；同时修装完打不开、覆盖安装不清对话记录、技术库未授权拦截。覆盖安装即可。"
+  "version": "3.4.76",
+  "url": "https://github.com/4311272/dsh-releases/releases/download/v3.4.76/ASA-DSH-3.4.76-setup.exe",
+  "sha256": "a6ab29057f39b1db93fcc6124ee8a4931d809133876187df30d220bedeac2444",
+  "pubDate": "2026-11-28",
+  "note": "修对话反复失败（只输出思考、正文为空导致的 transport failed）；界面只显示正文；中转不可达自动直连源站；输入框右上角新增工具状态；技术库去掉下载按钮。覆盖安装即可。"
 }
